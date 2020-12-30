@@ -1,0 +1,21 @@
+{
+  "name": "The-Queer-Lounge",
+  "version": "1.0.0",
+  "description": "The website for The Queer Lounge on Discord",
+  "main": "index.js",
+  "repository": "www.github.com/darraghbriscomb/The-Queer-Lounge-Website",
+  "author": "Darragh Briscomb",
+  "license": "MIT",
+  "dependencies": {
+    "@popperjs/core": "^2.6.0",
+    "bootstrap": "^4.5.3",
+    "grunt": "^1.3.0",
+    "grunt-concurrent": "^3.0.0",
+    "grunt-contrib-uglify": "^5.0.0",
+    "grunt-contrib-watch": "^1.1.0",
+    "grunt-sass": "^3.1.0",
+    "jquery": "^3.5.1",
+    "node-sass": "^5.0.0",
+    "popper.js": "^1.16.1"
+  }
+}
